@@ -1,0 +1,28 @@
+# Core web framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Database
+duckdb==0.9.1
+
+# Data processing
+pandas==2.1.3
+numpy==1.24.3
+
+# Web scraping and HTTP requests
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+html5lib==1.1
+
+# Caching
+redis==5.0.1
+
+# Environment management
+python-dotenv==1.0.0
+
+# Async support
+asyncio-throttle==1.0.2
+
+# Type hints
+typing-extensions==4.8.0
